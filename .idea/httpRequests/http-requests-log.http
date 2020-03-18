@@ -1,0 +1,90 @@
+GET http://localhost:9988/file/8f90bec4-abbd-41bf-a86c-41e9744cc03b
+
+<> 2020-03-18T080947.200.txt
+
+###
+
+POST http://localhost:9988/save
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="img.jpg"
+Content-Type: image/jpeg
+
+< C:\Users\admin\go\src\github.com\dsurush\fileservice\down.jpg
+--WebAppBoundary--
+
+<> 2020-03-18T080942.200.json
+
+###
+
+POST http://localhost:9988/save
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="img.jpg"
+Content-Type: image/jpeg
+
+< C:\Users\admin\go\src\github.com\dsurush\fileservice\down.jpg
+--WebAppBoundary--
+
+<> 2020-03-18T074232.200.json
+
+###
+
+GET http://localhost:9988/file/8f90bec4-abbd-41bf-a86c-41e9744cc03b
+
+<> 2020-03-18T074209.200.txt
+
+###
+
+POST http://localhost:9988/save
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="img.jpg"
+Content-Type: image/jpeg
+
+< C:\Users\admin\go\src\github.com\dsurush\fileservice\down.jpg
+--WebAppBoundary--
+
+<> 2020-03-18T074154.200.json
+
+###
+
+GET http://localhost:9988/file/8f90bec4-abbd-41bf-a86c-41e9744cc03b
+
+<> 2020-03-18T073302.200.txt
+
+###
+
+POST http://localhost:9988/save
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="img.jpg"
+Content-Type: image/jpeg
+
+< C:\Users\admin\go\src\github.com\dsurush\fileservice\down.jpg
+--WebAppBoundary--
+
+<> 2020-03-18T073258.200.json
+
+###
+
+GET http://localhost:9988/file/8f90bec4-abbd-41bf-a86c-41e9744cc03b
+
+###
+
+POST http://localhost:9988/save
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="img.jpg"
+Content-Type: image/jpeg
+
+< C:\Users\admin\go\src\github.com\dsurush\fileservice\down.jpg
+--WebAppBoundary--
+
+###
+

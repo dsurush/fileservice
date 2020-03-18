@@ -1,0 +1,8 @@
+github.com/dsurush/DI v0.0.0-20200318122200-14eaea1feb47 h1:6BzI7tF0PCDxo7dr370gy/4SPwtt2CNTSNr8+hEwiW8=
+github.com/dsurush/DI v0.0.0-20200318122200-14eaea1feb47/go.mod h1:8ceiLYvbf8K0ODaZ7JGrHqXe36HsosKBok80v0C0oqI=
+github.com/dsurush/mux v0.0.0-20200318122612-a8db67078b26 h1:UXe4Bi5Bt0WPuQvWe/m3WAr/b3XZGYjZFdz2i7ZLaKk=
+github.com/dsurush/mux v0.0.0-20200318122612-a8db67078b26/go.mod h1:0Kpq7rP5Lwd+rp43+6P0R2OqR9jRGRHZGrq3C6a95hw=
+github.com/dsurush/rest v0.0.0-20200318122739-a92d9b473f85 h1:a1OknsYf8hoE6gd9zxvtsLqu9rMXfSLr9+pyuoVZ/os=
+github.com/dsurush/rest v0.0.0-20200318122739-a92d9b473f85/go.mod h1:fv84EibuL3Wv4SJdL0dJFPZfIrnkxBvLr6SpKltIFm0=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
